@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/itprolab/static/css/main.7b11a3a8.css",
+    "main.js": "/itprolab/static/js/main.1938a9c3.js",
+    "static/media/hero.jpg": "/itprolab/static/media/hero.6d0ff45647b1a6fdd0bd.jpg",
+    "static/media/logo.png": "/itprolab/static/media/logo.da530cd64776adc4344d.png",
+    "static/media/courses.jpg": "/itprolab/static/media/courses.27b7e090ad0c10385fea.jpg",
+    "static/media/WhatsApp Image 2024-09-05 at 11.04.37_abdcfb2e.jpg": "/itprolab/static/media/WhatsApp Image 2024-09-05 at 11.04.37_abdcfb2e.ab5c652b6558dd3024cd.jpg",
+    "static/media/WhatsApp Image 2024-09-05 at 11.04.39_db375670.jpg": "/itprolab/static/media/WhatsApp Image 2024-09-05 at 11.04.39_db375670.e3eaa3a9a9c2bc818292.jpg",
+    "static/media/WhatsApp Image 2024-09-05 at 11.04.39_20cad2f1.jpg": "/itprolab/static/media/WhatsApp Image 2024-09-05 at 11.04.39_20cad2f1.f835c9c3c920e3b612b0.jpg",
+    "static/media/WhatsApp Image 2024-09-05 at 11.04.38_b88f8458.jpg": "/itprolab/static/media/WhatsApp Image 2024-09-05 at 11.04.38_b88f8458.db5ab88448b9296c127d.jpg",
+    "index.html": "/itprolab/index.html",
+    "main.7b11a3a8.css.map": "/itprolab/static/css/main.7b11a3a8.css.map",
+    "main.1938a9c3.js.map": "/itprolab/static/js/main.1938a9c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b11a3a8.css",
+    "static/js/main.1938a9c3.js"
+  ]
+}
