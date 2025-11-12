@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/itprolab/static/css/main.09df48c4.css",
-    "main.js": "/itprolab/static/js/main.a33b7e9c.js",
+    "main.css": "/itprolab/static/css/main.18e4d64c.css",
+    "main.js": "/itprolab/static/js/main.b2a53de5.js",
     "static/js/27.f0e2cdc0.chunk.js": "/itprolab/static/js/27.f0e2cdc0.chunk.js",
     "static/js/638.2ecc1b9f.chunk.js": "/itprolab/static/js/638.2ecc1b9f.chunk.js",
     "static/js/237.513da5b2.chunk.js": "/itprolab/static/js/237.513da5b2.chunk.js",
@@ -15,14 +15,14 @@
     "static/media/WhatsApp Image 2024-09-05 at 11.04.38_b88f8458.jpg": "/itprolab/static/media/WhatsApp Image 2024-09-05 at 11.04.38_b88f8458.db5ab88448b9296c127d.jpg",
     "static/media/remote.png": "/itprolab/static/media/remote.970215a81df5487aacdf.png",
     "index.html": "/itprolab/index.html",
-    "main.09df48c4.css.map": "/itprolab/static/css/main.09df48c4.css.map",
-    "main.a33b7e9c.js.map": "/itprolab/static/js/main.a33b7e9c.js.map",
+    "main.18e4d64c.css.map": "/itprolab/static/css/main.18e4d64c.css.map",
+    "main.b2a53de5.js.map": "/itprolab/static/js/main.b2a53de5.js.map",
     "27.f0e2cdc0.chunk.js.map": "/itprolab/static/js/27.f0e2cdc0.chunk.js.map",
     "638.2ecc1b9f.chunk.js.map": "/itprolab/static/js/638.2ecc1b9f.chunk.js.map",
     "237.513da5b2.chunk.js.map": "/itprolab/static/js/237.513da5b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09df48c4.css",
-    "static/js/main.a33b7e9c.js"
+    "static/css/main.18e4d64c.css",
+    "static/js/main.b2a53de5.js"
   ]
 }
