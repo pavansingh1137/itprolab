@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/itprolab/static/css/main.b6881a71.css",
-    "main.js": "/itprolab/static/js/main.11a99099.js",
-    "static/js/27.d3ff6a42.chunk.js": "/itprolab/static/js/27.d3ff6a42.chunk.js",
-    "static/js/638.2ecc1b9f.chunk.js": "/itprolab/static/js/638.2ecc1b9f.chunk.js",
-    "static/js/237.513da5b2.chunk.js": "/itprolab/static/js/237.513da5b2.chunk.js",
+    "main.css": "/itprolab/static/css/main.ad7c993f.css",
+    "main.js": "/itprolab/static/js/main.233fc336.js",
+    "static/js/27.ef671da8.chunk.js": "/itprolab/static/js/27.ef671da8.chunk.js",
+    "static/js/638.f15cc2ab.chunk.js": "/itprolab/static/js/638.f15cc2ab.chunk.js",
+    "static/js/237.251117ef.chunk.js": "/itprolab/static/js/237.251117ef.chunk.js",
+    "static/js/239.5589ca5a.chunk.js": "/itprolab/static/js/239.5589ca5a.chunk.js",
+    "static/js/977.5351c44d.chunk.js": "/itprolab/static/js/977.5351c44d.chunk.js",
+    "static/js/455.11eeb134.chunk.js": "/itprolab/static/js/455.11eeb134.chunk.js",
     "static/media/dfa.jpg": "/itprolab/static/media/dfa.715fd0950a6a39d6106d.jpg",
     "static/media/hero.jpg": "/itprolab/static/media/hero.6d0ff45647b1a6fdd0bd.jpg",
     "static/media/logo.png": "/itprolab/static/media/logo.da530cd64776adc4344d.png",
@@ -15,14 +18,17 @@
     "static/media/WhatsApp Image 2024-09-05 at 11.04.38_b88f8458.jpg": "/itprolab/static/media/WhatsApp Image 2024-09-05 at 11.04.38_b88f8458.db5ab88448b9296c127d.jpg",
     "static/media/remote.png": "/itprolab/static/media/remote.970215a81df5487aacdf.png",
     "index.html": "/itprolab/index.html",
-    "main.b6881a71.css.map": "/itprolab/static/css/main.b6881a71.css.map",
-    "main.11a99099.js.map": "/itprolab/static/js/main.11a99099.js.map",
-    "27.d3ff6a42.chunk.js.map": "/itprolab/static/js/27.d3ff6a42.chunk.js.map",
-    "638.2ecc1b9f.chunk.js.map": "/itprolab/static/js/638.2ecc1b9f.chunk.js.map",
-    "237.513da5b2.chunk.js.map": "/itprolab/static/js/237.513da5b2.chunk.js.map"
+    "main.ad7c993f.css.map": "/itprolab/static/css/main.ad7c993f.css.map",
+    "main.233fc336.js.map": "/itprolab/static/js/main.233fc336.js.map",
+    "27.ef671da8.chunk.js.map": "/itprolab/static/js/27.ef671da8.chunk.js.map",
+    "638.f15cc2ab.chunk.js.map": "/itprolab/static/js/638.f15cc2ab.chunk.js.map",
+    "237.251117ef.chunk.js.map": "/itprolab/static/js/237.251117ef.chunk.js.map",
+    "239.5589ca5a.chunk.js.map": "/itprolab/static/js/239.5589ca5a.chunk.js.map",
+    "977.5351c44d.chunk.js.map": "/itprolab/static/js/977.5351c44d.chunk.js.map",
+    "455.11eeb134.chunk.js.map": "/itprolab/static/js/455.11eeb134.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6881a71.css",
-    "static/js/main.11a99099.js"
+    "static/css/main.ad7c993f.css",
+    "static/js/main.233fc336.js"
   ]
 }
